@@ -1,0 +1,10 @@
+F:\C#\UserReg\UserReg\bin\Debug\UserReg.exe.config
+F:\C#\UserReg\UserReg\bin\Debug\UserReg.exe
+F:\C#\UserReg\UserReg\bin\Debug\UserReg.pdb
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.csproj.AssemblyReference.cache
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.UserRegistration.resources
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.Properties.Resources.resources
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.csproj.GenerateResource.cache
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.csproj.CoreCompileInputs.cache
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.exe
+F:\C#\UserReg\UserReg\obj\Debug\UserReg.pdb
